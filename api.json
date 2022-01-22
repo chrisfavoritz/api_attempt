@@ -4082,8 +4082,7 @@
       "Ghost",
       "Dark"
     ]
-  },
-             {
+  }, {
     "id": 152,
     "num": "152",
     "name": "Chikorita",
@@ -4104,7 +4103,7 @@
       "Fire",
       "Ice",
       "Flying"
-    ]
+    ],
     "next_evolution": [{
       "num": "153",
       "name": "Bayleef"
